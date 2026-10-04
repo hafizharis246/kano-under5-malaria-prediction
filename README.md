@@ -39,7 +39,7 @@ Beyond Kano State, we extracted and processed **complete nationwide population d
 
 Researchers and practitioners interested in extending this methodology to other LGAs, States, or ecological zones can access the curated dataset below:
 
-📁 **[Access Full Nigeria LGA-Level Environmental & Population Dataset (Google Drive)](#)** *(Insert your Google Drive link here)*
+📁 **[Access Full Nigeria LGA-Level Environmental & Population Dataset (Google Drive)](https://drive.google.com/drive/folders/1aoSfPmdjyNtSdHkprxdYZvn64-DTX0Hk?usp=drive_link)** *(Insert your Google Drive link here)*
 
 ---
 
@@ -54,5 +54,4 @@ Researchers and practitioners interested in extending this methodology to other 
 - **Hafiz Haris Mehmood** – Machine Learning Researcher
 - **Debra Ukamaha Okeh** – Public Health Research Lead
 
-### Reference Paper
 - *"Modelling the impact of climate variability on malaria transmission dynamics across the different ecological zones in Taraba State, Nigeria: A machine learning approach,"* ScienceDirect, 2026. [Read Full Paper](https://www.sciencedirect.com/science/article/pii/S294992402600011X)
