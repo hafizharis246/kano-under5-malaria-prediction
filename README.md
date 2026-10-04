@@ -39,7 +39,7 @@ Beyond Kano State, we extracted and processed **complete nationwide population d
 
 Researchers and practitioners interested in extending this methodology to other LGAs, States, or ecological zones can access the curated dataset below:
 
-📁 **[Access Full Nigeria LGA-Level Environmental & Population Dataset (Google Drive)](https://drive.google.com/drive/folders/1aoSfPmdjyNtSdHkprxdYZvn64-DTX0Hk?usp=drive_link)** *(Insert your Google Drive link here)*
+📁 **[Access Full Nigeria LGA-Level Environmental & Malaria Population Dataset (Google Drive)](https://drive.google.com/drive/folders/1aoSfPmdjyNtSdHkprxdYZvn64-DTX0Hk?usp=drive_link)** 
 
 ---
 
